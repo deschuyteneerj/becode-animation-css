@@ -12,4 +12,4 @@ The most difficult was maybe to reproduce the picture zooming. But also the text
 
 It took several hours but the result is fine and I am proud of it !
 
-Here is the link to the GitHub Page: <>
+Here is the link to the GitHub Page: <https://deschuyteneerj.github.io/becode-animation-css/>
